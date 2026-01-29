@@ -23,14 +23,14 @@ Currently expanding into **Web3 (Solidity)** and **Mobile Application Security**
 - Path Traversal
 - Cross-Site Scripting (XSS)
 - CSRF & CORS Misconfigurations
-- Cache Deception
+- Caching Vulnerabilities
 - Race Conditions
 - SQL Injection (SQLi)
 - Server-Side Request Forgery (SSRF)
 - Remote Code Execution (RCE)
 - Server-Side Template Injection (SSTI)
 - Information Disclosure
-- And More
+- And More....
 
 ---
 
